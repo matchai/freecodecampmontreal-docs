@@ -16,16 +16,19 @@ The docs cover features, rules and more about the discord server, including info
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Docs
+   :caption: General Information
 
    introduction
    mentors/index
+
+.. toctree::
+   :caption: Guides
+
+   guides/asking_for_help
+   guides/git_and_github
+
+.. toctree::
+   :caption: Extras
+
+   coming_soon
    faq
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

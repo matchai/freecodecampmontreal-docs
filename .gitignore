@@ -289,5 +289,5 @@ __pycache__/
 
 # Builds
 _build
-_static
+/_static
 _templates

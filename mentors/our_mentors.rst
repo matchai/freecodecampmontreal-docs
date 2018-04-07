@@ -4,7 +4,7 @@ As long as the mentor knows the language you need help in, they can most likely 
 
 @sirMerr - Tiffany
 -------------------------------
-sirMerr_ is a developer a few years of experience. She is comfortable with the full web development stack (frontend + backend) and does a lot of work doing API architechture, building and implement said APIs as well as developing tools from scratch. 
+sirMerr_ is a developer with a few years of experience. She is comfortable with the full web development stack (frontend + backend) and does a lot of work doing API architechture, building and implement said APIs as well as developing tools from scratch. 
 
 Experience
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

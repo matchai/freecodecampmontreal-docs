@@ -56,3 +56,46 @@ I could probably help with:
 - Express
 
 .. _jeegnathebug: https://github.com/jeegnathebug
+
+@etcoman - Jason
+-------------------------------
+COMING SOON
+JasonEtco_
+
+Experience
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Jason currently works as a Training Application Engineer at GitHub after having worked there as an intern.
+
+He is about to graduate in Design or something because I forget.
+
+I am most comfortable with:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Javascript
+- NodeJS
+- Literally everything git and GitHub
+- React
+- CircleCI & TravisCI
+
+.. _JasonEtco: https://github.com/JasonEtco
+
+@matchai - Matan
+-------------------------------
+COMING SOON
+matchai_
+
+Experience
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Matan is a Software Test Engineer at Shutterstock.
+
+
+I am most comfortable with:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Javascript
+- NodeJS
+- git and GitHub
+- Vue
+- Java
+- Selenium
+- ...
+
+.. _matchai: https://github.com/matchai

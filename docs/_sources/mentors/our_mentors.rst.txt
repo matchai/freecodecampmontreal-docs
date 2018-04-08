@@ -10,7 +10,7 @@ Experience
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 This summer, Tiffany will be working as a Platform Engineer Intern at GitHub.
 
-She has been working as a professional developer for about 3-4 years and currently works as a Full Stack developer and is usually working on a project in her free time.
+She has been working as a professional developer for about 3-4 years, currently works as a Full Stack developer and is usually working on a project in her free time.
 
 I am most comfortable with:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -66,7 +66,7 @@ Experience
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Jason currently works as a Training Application Engineer at GitHub after having worked there as an intern.
 
-He is about to graduate in Design or something because I forget.
+He graduated in Design.
 
 I am most comfortable with:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -97,5 +97,9 @@ I am most comfortable with:
 - Java
 - Selenium
 - ...
+
+I could probably help with:
+
+- Swift
 
 .. _matchai: https://github.com/matchai

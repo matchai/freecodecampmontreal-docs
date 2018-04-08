@@ -2,7 +2,7 @@ Becoming a Mentor
 ===========================
 What is a Mentor
 ---------------------------
-Mentors are usually professional developers (aka they do this for a living) and/or people with a few years of coding experience that are confident in their skills that are willing to answer questions when free and potentially offer mentoring sessions. 
+Mentors are usually professional developers (aka they do this for a living) and/or people with a few years of coding experience that are confident in their skills and that are willing to answer questions when free and potentially offer mentoring sessions. 
 
 They should not be treated as Google! Always try to find how to do something on your own as most answers are readily available online.
 
@@ -17,6 +17,7 @@ Perks :D?
 - A shiny new label
 - Representation in Our Mentors section
 - First dibs on stickers and small trinkets of appreciation
+- The ability to host your own workshops (coming soon)
 
 Do I qualify?
 ---------------------------

@@ -32,3 +32,4 @@ The docs cover features, rules and more about the discord server, including info
 
    coming_soon
    faq
+   resources
